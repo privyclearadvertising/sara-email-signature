@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body style="margin:0; padding:0; font-family:'Space Grotesk', sans-serif;">
+    <table
+      width="500"
+      cellspacing="0"
+      cellpadding="0"
+      border="0"
+      style="background:#ffffff; padding:15px; border-radius:10px; font-family:'Space Grotesk', sans-serif;"
+    >
+      <tr>
+        <!-- Image Section -->
+        <td width="140" style="padding-right:15px; vertical-align:top;">
+          <img
+            src="https://i.postimg.cc/CLwTpXHB/sara-chambers.png"
+            width="140"
+            height="140"
+            style="border-radius:50%;"
+            alt="Sara"
+          />
+        </td>
+
+        <!-- Info Section -->
+        <td style="vertical-align:top;">
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td>
+                <!-- NOTE: fixed color from ##212121 to #212121 -->
+                <span style="font-size:18px; color:#212121; font-weight:bold;">
+                  Sara Chambers
+                </span>
+              </td>
+            </tr>
+          </table>
+
+          <p style="font-size:14px; margin:2px 0; color:#212121;">
+            Co-Owner & Founder
+          </p>
+
+          <!-- Add Space Above & Below Pink Separator Line -->
+          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td height="5"></td>
+            </tr>
+            <tr>
+              <td style="border-bottom:2px solid #fc50ad; width:100%;"></td>
+            </tr>
+            <tr>
+              <td height="5"></td>
+            </tr>
+          </table>
+
+          <!-- Contact Info -->
+          <table width="100%" cellspacing="0" cellpadding="0" border="0" role="presentation">
+            <tr>
+              <td style="vertical-align:top;">
+                <table cellspacing="0" cellpadding="0" border="0" role="presentation">
+                  <!-- Phone -->
+                  <tr>
+                    <td style="padding:2px 8px 2px 0; vertical-align:middle;">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        style="display:block;"
+                      >
+                        <path
+                          fill="#000000"
+                          d="M6.62 10.79a15.05 15.05 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1C10.07 21 3 13.93 3 5a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.46.57 3.58a1 1 0 0 1-.24 1.01l-2.21 2.2z"
+                        />
+                      </svg>
+                    </td>
+                    <td style="padding:2px 0; vertical-align:middle;">
+                      <a
+                        href="tel:9313421688"
+                        style="text-decoration:none; color:#212121; font-weight:600; font-size:14px; line-height:18px;"
+                      >
+                        (931) 342-1688
+                      </a>
+                    </td>
+                  </tr>
+
+                  <!-- Email: Sara -->
+                  <tr>
+                    <td style="padding:2px 8px 2px 0; vertical-align:middle;">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        style="display:block;"
+                      >
+                        <path
+                          fill="#000000"
+                          d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"
+                        />
+                      </svg>
+                    </td>
+                    <td style="padding:2px 0; vertical-align:middle;">
+                      <a
+                        href="mailto:sara@privyclear.com"
+                        style="text-decoration:none; color:#212121; font-weight:600; font-size:14px; line-height:18px;"
+                      >
+                        Sara@privyclear.com
+                      </a>
+                    </td>
+                  </tr>
+
+                  <!-- Website -->
+                  <tr>
+                    <td style="padding:2px 8px 2px 0; vertical-align:middle;">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        style="display:block;"
+                      >
+                        <path
+                          fill="#000000"
+                          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm7.93 9h-3.17c-.14-2.22-.73-4.2-1.62-5.7A8.03 8.03 0 0 1 19.93 11zM12 4c1.19 0 2.87 2.2 3.1 7H8.9C9.13 6.2 10.81 4 12 4zM4.07 13h3.17c.14 2.22.73 4.2 1.62 5.7A8.03 8.03 0 0 1 4.07 13zm0-2a8.03 8.03 0 0 1 4.79-5.7C8 6.8 7.41 8.78 7.24 11H4.07zm7.93 9c-1.19 0-2.87-2.2-3.1-7h6.2c-.23 4.8-1.91 7-3.1 7zm3.14-1.3c.89-1.5 1.48-3.48 1.62-5.7h3.17a8.03 8.03 0 0 1-4.79 5.7z"
+                        />
+                      </svg>
+                    </td>
+                    <td style="padding:2px 0; vertical-align:middle;">
+                      <a
+                        href="https://privyclear.com"
+                        target="_blank"
+                        style="text-decoration:none; color:#212121; font-weight:600; font-size:14px; line-height:18px;"
+                      >
+                        PrivyClear.com
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+
+          <!-- Invisible Spacer Between Website & Buttons -->
+          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td height="10"></td>
+            </tr>
+          </table>
+
+          <!-- Buttons -->
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+              <td style="padding-right:10px;">
+                <a
+                  href="https://www.privyclear.com/services"
+                  style="background:#212121; color:#ffffff; padding:8px 12px; text-decoration:none; border-radius:6px; font-size:14px; font-weight:600; display:inline-block;"
+                >
+                  Our Services
+                </a>
+              </td>
+              <td>
+                <a
+                  href="https://g.page/r/CTZpNXkrzA7HEBM/review"
+                  style="background:#212121; color:#ffffff; padding:8px 12px; text-decoration:none; border-radius:6px; font-size:14px; font-weight:600; display:inline-block;"
+                >
+                  Leave a Google Review
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
