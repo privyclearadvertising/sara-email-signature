@@ -10,8 +10,7 @@
       cellspacing="0"
       cellpadding="0"
       border="0"
-      style="background:#ffffff; padding:15px; border-radius:10px; font-family:'Space Grotesk', sans-serif;"
-    >
+      style="background:#ffffff; padding:15px; border-radius:10px; font-family:'Space Grotesk', sans-serif;">
       <tr>
         <!-- Image Section -->
         <td width="140" style="padding-right:15px; vertical-align:top;">
@@ -20,8 +19,7 @@
             width="140"
             height="140"
             style="border-radius:50%;"
-            alt="Sara"
-          />
+            alt="Sara"/>
         </td>
 
         <!-- Info Section -->
